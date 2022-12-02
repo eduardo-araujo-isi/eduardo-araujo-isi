@@ -3,7 +3,7 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/araujo-eduardo">
+  <a href="https://github.com/eduardo-araujo-isi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardo-araujo-isi&show_icons=true&theme=merko&include_all_commits=true"/>    
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-araujo-isi&layout=compact&langs_count=7&theme=merko"/>
 </div>
